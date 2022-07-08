@@ -21,7 +21,7 @@ consider rotations and reflections as same.
 
 //filename
 //for safety purposes, during testing i will write only to an unimportant file
-const char* writefile="gamedata_ttt_c_temp.csv", *readfile="gamedata_ttt_c.csv" ;
+const char* writefile="gamedata_ttt_c.csv", *readfile="gamedata_ttt_c.csv" ;
 
 // window size
 const int h =400, w=400;
